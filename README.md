@@ -39,4 +39,4 @@
 
 ## Status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spicy1Code&show_icons=true&theme=radical) <a href="#"><img src="ezgif.com-crop_3.gif" alt="SPICYCODE Developer" width="250"></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spicy1Code&show_icons=true&theme=radical) 
