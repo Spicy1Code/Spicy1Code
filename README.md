@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="#"><img src="ezgif.com-crop_3.gif" alt="SPICYCODE Developer" width="160"></a>
+  <a href="#"><img src="./icons8-chili-pepper-96" alt="SPICYCODE Developer" width="160"></a>
   <br>
 
 </h1>
@@ -39,4 +39,4 @@
 
 ## Status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spicy1Code&show_icons=true&theme=radical) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spicy1Code&show_icons=true&theme=radical) <a href="#"><img src="ezgif.com-crop_3.gif" alt="SPICYCODE Developer" width="250"></a>
