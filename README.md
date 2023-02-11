@@ -3,7 +3,7 @@
   <br>
   <a href="#"><img src="/icons8-chili-pepper-96.png" alt="SPICYCODE Developer" width="160"></a>
   <br>
-   SpicyCode
+
 </h1>
 
 <h4 align="center">"Welcome to Spicy Code- Development! Unleash the Power of Discord with our Comprehensive Bot Tutorials. Whether you're a beginner or an experienced developer, our channel is dedicated to providing you with the best discord bot tutorials and resources to help you create and customize your own bot. From beginner to advanced, we offer a wide range of tutorials to take your bot to the next level. Subscribe now and join our community of self-taught programmers who enjoy developing and working on Discord bots. Get access to free source code and start your bot-building journey today!"</h4>
