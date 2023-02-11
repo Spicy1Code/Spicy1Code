@@ -39,7 +39,7 @@
 
 ## Status
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spicy1Code)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spicy1Code) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spicy1Code&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spicy1Code&layout=compact)]
+
 
