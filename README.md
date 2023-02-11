@@ -1,12 +1,12 @@
 
 <h1 align="center">
   <br>
-  <a href="#"><img src="/icons8-chili-pepper-96.png" alt="ORA Developer" width="200"></a>
+  <a href="#"><img src="/icons8-chili-pepper-96.png" alt="SPICYCODE Developer" width="160"></a>
   <br>
-  Aria & Sina (ORA)
+  Aria & Sina (SPICYCODE)
 </h1>
 
-<h4 align="center">This is ORA! A junior front end developer</h4>
+<h4 align="center">This is SPICYCODE! A junior front end developer</h4>
 
 ## My expertise
 
