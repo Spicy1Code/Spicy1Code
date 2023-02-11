@@ -39,4 +39,4 @@
 
 ## Status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spicy1Code&theme=tokyonight) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spicy1Code&show_icons=true&theme=radical) 
