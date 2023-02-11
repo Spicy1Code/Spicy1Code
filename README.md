@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img alt="ICON" src="https://icons8.com/icon/111040/o" />
+  <a href="#"><img src="/icons8-o-100.png" alt="ORA Developer" width="200"></a>
   <br>
   Aria & Sina (ORA)
 </h1>
