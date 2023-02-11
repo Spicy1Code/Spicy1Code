@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="#"><img src="./icons8-chili-pepper-96" alt="SPICYCODE Developer" width="160"></a>
+  <a href="#"><img src="./icons8-chili-pepper-96.png" alt="SPICYCODE Developer" width="160"></a>
   <br>
 
 </h1>
