@@ -41,5 +41,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spicy1Code)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spicy1Code)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spicy1Code&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
