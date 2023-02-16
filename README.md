@@ -10,6 +10,9 @@
 # 💫 About Us:
 👋Welcome to SpicyCode!<br><br>💪Unleash the Power of Discord with our Comprehensive Bot Tutorials.<br><br>♟️Whether you're a beginner or an experienced developer, our channel is dedicated to providing you with the best discord bot tutorials and resources to help you create and customize your own bot.<br><br>💎From beginner to advanced, we offer a wide range of tutorials to take your Programming skill to the next level. <br><br>💻 join our community of self-taught programmers who enjoy developing and working on Anything.<br><br>🧑‍💻Get access to free source code and start your bot-building journey today!
 
+## ☕ coffee:
+
+<a href="https://www.buymeacoffee.com/spicy1codec" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://dsc.gg/ora-) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ITz-Zekky) 
