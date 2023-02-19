@@ -7,6 +7,8 @@
 
 </h1>
 
+# SpicyCode
+
 # 💫 About Us:
 👋Welcome to SpicyCode!<br><br>💪Unleash the Power of Discord with our Comprehensive Bot Tutorials.<br><br>♟️Whether you're a beginner or an experienced developer, our channel is dedicated to providing you with the best discord bot tutorials and resources to help you create and customize your own bot.<br><br>💎From beginner to advanced, we offer a wide range of tutorials to take your Programming skill to the next level. <br><br>💻 join our community of self-taught programmers who enjoy developing and working on Anything.<br><br>🧑‍💻Get access to free source code and start your bot-building journey today!
 
