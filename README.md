@@ -5,7 +5,7 @@
   <br>
 
   <h1 align="center">
-  # SpicyCode
+   <a herf="https://www.buymeacoffee.com/spicy1codec"> SpicyCode
  </h1>
   
 # 💫 About Us:
