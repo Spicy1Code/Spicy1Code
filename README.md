@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://dsc.gg/spicycode"><img src="https://media.giphy.com/media/km566NxkoIH9rwBgim/giphy.gif" alt="SPICYCODE Developer" width="600"></a>
+  <a href="https://dsc.gg/spicycode"><img src="https://media.giphy.com/media/km566NxkoIH9rwBgim/giphy.gif" alt="SPICYCODE Developer" width="500"></a>
   <br>
 
   <h1 align="center">
